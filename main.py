@@ -19,7 +19,7 @@ def main():
 
     
 #    print(text_output)
-    print(f'{how_many_words} words found in document')
+    print(f'{how_many_words} words found in the document')
 
 
 
